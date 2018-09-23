@@ -1,0 +1,39 @@
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+    font-family: 'Aldrich', sans-serif;
+    border:10px  blue;
+}
+.headshot{
+    width:20%;
+    background-color:black;
+   
+}
+.mid{
+    background-color:black ;
+    color:white;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    border: 10px solid blue;
+}
+.aboutme{
+    border:1px solid black;   
+}
+
+.row{
+    display:flex;
+    justify-content:space-around;
+    }
+h1{
+    font-size:100px;
+    color:blue;
+font-family: 'Allura', cursive;
+}
+.aboutme{
+    justify-content: center;
+    border: 10px solid blue;
+    }
